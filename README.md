@@ -71,13 +71,6 @@ Tested multiple Machine Learning models, including:
 
    jupyter notebook "fakenews (1).ipynb"
 
-## 📂 Dataset
-
-The datasets are provided in **compressed `.csv.gz` format** to reduce file size:
-
-* ❌ `Fake.csv.gz` → Fake news articles
-* ✅ `True.csv.gz` → True news articles
-
 ## 🔓 Extracting the Dataset
 
 ### Option 1: Windows
